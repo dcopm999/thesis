@@ -71,12 +71,16 @@ THIRD_PARTY_APPS = [
     "allauth.socialaccount",
     "rest_framework",
     "rest_framework.authtoken",
+    "django_filters",
     "corsheaders",
     "drf_spectacular",
+    "sorl.thumbnail",
+    "mptt",
 ]
 
 LOCAL_APPS = [
     "thesis.users.apps.UsersConfig",
+    "hr",
     # Your stuff: custom apps go here
 ]
 # https://docs.djangoproject.com/en/dev/ref/settings/#installed-apps

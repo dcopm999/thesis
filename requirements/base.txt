@@ -19,3 +19,6 @@ djangorestframework==3.12.4  # https://github.com/encode/django-rest-framework
 django-cors-headers==3.7.0 # https://github.com/adamchainz/django-cors-headers
 djangorestframework-simplejwt==4.8.0 # https://django-rest-framework-simplejwt.readthedocs.io/
 drf-spectacular==0.18.1 # https://drf-spectacular.readthedocs.io/
+sorl-thumbnail==12.7.0 # https://sorl-thumbnail.readthedocs.io/
+django-mptt==0.13.3 # https://django-mptt.readthedocs.io/
+django-filter==2.4.0 # https://django-filter.readthedocs.io/
